@@ -1,0 +1,7 @@
+opencv-python
+numpy
+labelImg
+pyyaml
+ultralytics
+torch
+torchvision
