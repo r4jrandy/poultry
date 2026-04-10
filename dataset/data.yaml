@@ -1,0 +1,7 @@
+path: C:\Users\shash\OneDrive\Desktop\Project\egg-counter\dataset
+train: train/images
+val: val/images
+test: test/images
+nc: 1
+names:
+- egg
